@@ -1,0 +1,28 @@
+h2 {
+    background-color: bisque;
+}
+
+section {
+    background-color: greenyellow;
+}
+
+section.section1 {
+    background-color: orange;
+}
+
+p {
+    background-color: orange;
+}
+
+p.parrafoazul {
+    background-color: blue;
+    background;
+}
+
+div {
+    display: block;
+
+}
+nav  {
+    display: block;
+}
